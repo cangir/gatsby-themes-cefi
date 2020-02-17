@@ -2,14 +2,14 @@
     "name": "gatsby-starter-tablex",
     "version": "0.0.2",
     "private": true,
-    "author": "cangir <cangir@chummun.com>",
+    "author": "Ahmet Cangir <contact@ahmetcangir.com>",
     "license": "MIT",
-    "starter-name": "gatsby-starter-flex",
+    "starter-name": "gatsby-starter-tablex",
     "keywords": [
         "gatsby",
         "gatsby-plugin",
         "gatsby-starter",
-        "gatsby-starter-flex"
+        "gatsby-starter-tablex"
     ],
     "bugs": {
         "url": "https://github.com/cangir/gatsby-themes/issues"
@@ -17,7 +17,7 @@
     "homepage": "https://github.com/cangir/gatsby-themes",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cangir/gatsby-starter-tabler-flex.git"
+        "url": "https://github.com/cangir/gatsby-starter-tablex.git"
     },
     "scripts": {
         "build": "gatsby build",
