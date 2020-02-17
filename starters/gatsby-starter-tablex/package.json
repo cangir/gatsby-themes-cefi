@@ -1,41 +1,38 @@
 {
-  "name": "gatsby-starter-flex",
-  "version": "1.2.1",
-  "private": true,
-  "author": "cangir <cangir@chummun.com>",
-  "license": "MIT",
-  "starter-name": "gatsby-starter-flex",
-  "keywords": [
-    "gatsby",
-    "gatsby-plugin",
-    "gatsby-starter",
-    "gatsby-starter-flex"
-  ],
-  "bugs": {
-    "url": "https://github.com/cangir/gatsby-themes/issues"
-  },
-  "homepage": "https://github.com/cangir/gatsby-themes",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cangir/gatsby-starter-tabler-flex.git"
-  },
-  "scripts": {
-    "build": "gatsby build",
-    "start": "gatsby develop",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "dev": "gatsby clean && gatsby develop",
-    "preview": "gatsby build && gatsby serve"
-  },
-  "devDependencies": {
-    "gatsby": "2.19.17",
-    "react": "16.12.0",
-    "react-dom": "16.12.0"
-  },
-  "dependencies": {
-    "gatsby": "2.19.17",
-    "gatsby-theme-tablex": "^0.0.1",
-    "react": "16.12.0",
-    "react-dom": "16.12.0"
-  }
+    "name": "gatsby-starter-tablex",
+    "version": "0.0.1",
+    "private": true,
+    "author": "cangir <cangir@chummun.com>",
+    "license": "MIT",
+    "starter-name": "gatsby-starter-flex",
+    "keywords": [
+        "gatsby", "gatsby-plugin", "gatsby-starter", "gatsby-starter-flex"
+    ],
+    "bugs": {
+        "url": "https://github.com/cangir/gatsby-themes/issues"
+    },
+    "homepage": "https://github.com/cangir/gatsby-themes",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cangir/gatsby-starter-tabler-flex.git"
+    },
+    "scripts": {
+        "build": "gatsby build",
+        "start": "gatsby develop",
+        "serve": "gatsby serve",
+        "clean": "gatsby clean",
+        "dev": "gatsby clean && gatsby develop",
+        "preview": "gatsby build && gatsby serve"
+    },
+    "devDependencies": {
+        "gatsby": "2.19.17",
+        "react": "16.12.0",
+        "react-dom": "16.12.0"
+    },
+    "dependencies": {
+        "gatsby": "2.19.17",
+        "gatsby-theme-tablex": "^0.0.1",
+        "react": "16.12.0",
+        "react-dom": "16.12.0"
+    }
 }
