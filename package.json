@@ -2,7 +2,7 @@
   "name": "@cangir/gatsby-themes",
   "description": "A collection of free themes for Gatsby",
   "author": "cangir <contact@ahmetcangir.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "private": true,
@@ -19,9 +19,9 @@
     "sync": "npm run sync:starters && npm run sync:examples",
     "sync:starters": "./scripts/sync.sh \"starters/*\"",
     "sync:examples": "./scripts/sync.sh \"examples/*\"",
-    "themes:tablex": "yarn workspace @cangir/gatsby-theme-tablex",
-    "starters:tablex": "yarn workspace @cangir/gatsby-starter-tablex",
-    "examples:tablex": "yarn workspace examples/gatsby-example-tablex"
+    "themes:tablex": "yarn workspace gatsby-theme-tablex",
+    "starters:tablex": "yarn workspace gatsby-starter-tablex",
+    "examples:tablex": "yarn workspace gatsby-example-tablex"
   },
   "repository": {
 		"type": "git",
