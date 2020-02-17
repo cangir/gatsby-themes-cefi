@@ -19,9 +19,9 @@
     "sync": "npm run sync:starters && npm run sync:examples",
     "sync:starters": "./scripts/sync.sh \"starters/*\"",
     "sync:examples": "./scripts/sync.sh \"examples/*\"",
-    "themes:bootstrap": "yarn workspace @cangir/gatsby-theme-bootstrap",
-    "starters:bootstrap": "yarn workspace @cangir/gatsby-starter-bootstrap",
-    "examples:bootstrap": "yarn workspace examples/gatsby-example-bootstrap"
+    "themes:tablex": "yarn workspace @cangir/gatsby-theme-tablex",
+    "starters:tablex": "yarn workspace @cangir/gatsby-starter-tablex",
+    "examples:tablex": "yarn workspace examples/gatsby-example-tablex"
   },
   "repository": {
 		"type": "git",
