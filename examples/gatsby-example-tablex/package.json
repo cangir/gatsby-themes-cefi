@@ -2,7 +2,7 @@
   "name": "gatsby-example-tablex",
   "description": "Demo for gatsby-theme-tablex.",
   "private": true,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Ahmet Cangir <contact@ahmetcangir.com>",
   "license": "MIT",
   "scripts": {
