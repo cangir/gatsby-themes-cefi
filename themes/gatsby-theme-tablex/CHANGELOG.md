@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.0.2 (2020-02-17)
+
+**Note:** Version bump only for package gatsby-theme-tablex
+
+
+
+
+
 ## [0.2.1](https://github.com/cangir/gatsby-themes/compare/gatsby-theme-flex@0.2.0...gatsby-theme-flex@0.2.1) (2020-01-28)
 
 

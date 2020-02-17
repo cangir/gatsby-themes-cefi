@@ -2,7 +2,7 @@
   "name": "@cangir/gatsby-theme-core",
   "description": "Helpers for @cangir/gatsby-themes packages",
   "author": "cangir <cangir@chummun.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
