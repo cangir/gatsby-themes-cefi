@@ -1,0 +1,46 @@
+{
+  "name": "@cangir/gatsby-themes",
+  "author": {
+    "name": "Ahmet Cangir",
+    "email": "contact@ahmetcangir.com",
+    "url": "https://ahmetcangir.com"
+  },
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "lint:ts": "tslint -c ./tslint.json 'packages/*/src/**/*.{ts,tsx}'",
+    "lint:css": "stylelint --config ./.stylelintrc './packages/*/src/**/*.{ts,tsx}'",
+    "lint": "yarn run lint:ts && yarn run lint:css"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-theme",
+    "gatsby-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "repository": "https://github.com/cangir/gatsby-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/cangir/gatsby-themes/issues"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "packages/core/*",
+    "packages/themes/*",
+    "packages/starters/*"
+  ],
+  "devDependencies": {
+    "gatsby": "^2.19.18",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "stylelint": "^13.2.0",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.10.0",
+    "tslint": "^6.0.0",
+    "tslint-react": "^4.2.0",
+    "tslint-react-hooks": "^2.2.1"
+  }
+}
